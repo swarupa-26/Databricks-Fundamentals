@@ -2,11 +2,6 @@
 
 > A practical, end-to-end reference covering concepts, architecture, setup, security,
 > governance, operations, and migration for Unity Catalog on Databricks (AWS, Azure, GCP).
->
-> **Audience:** data engineers, platform admins, security/governance teams, and analysts.
-> **Scope:** Unity Catalog as of the 2024–2025 Databricks platform. Some features are
-> preview/GA-gated per cloud and region — always verify the current status in the
-> official docs before relying on a feature in production.
 
 ---
 

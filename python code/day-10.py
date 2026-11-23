@@ -1,4 +1,5 @@
-print("hello world")
+a=2
 
+b=3
 
-print ("good morning")
+print (a*b)
